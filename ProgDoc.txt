@@ -5,16 +5,16 @@ Creator: Shadows_of_Fire @ 11/24/2016
 Early Age (Pre-Entry to Mechanisms)
 
 - Vanilla 
-- Tinkers' Construct (?)
+- Tinkers' Construct 
 - IronChests
 - Chisel
 
 
 Age of Man (Entry-Level technology)
 
-- Better with Mods (?)
+- Better with Mods 
 - Storage Drawers
-- Railcraft (?)
+- Railcraft 
 
 
 
@@ -36,13 +36,13 @@ Information Age (Use of futuristic tech)
 - RFTools & Machines 
 - Modularity 
 - Applied Energistics 2 (?)
-- ExtremeReactors (?) 8x-12x less fuel efficient possible requiring of IC2 nuclear scrap
+- ExtremeReactors ( Reactors 8x-12x less fuel efficient possible requiring of IC2 nuclear scrap )
 
 Space Age (Planetary.)
  
 - Planetary
 - RFTools Dimensions 
-
+- ExtremeReactors (Turbines untouched)
 
 
 
