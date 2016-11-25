@@ -4,34 +4,41 @@ Creator: Shadows_of_Fire @ 11/24/2016
 
 Early Age (Pre-Entry to Mechanisms)
 
-
+- Vanilla 
+- Tinkers' Construct (?)
+- IronChests
+- Chisel
 
 
 Age of Man (Entry-Level technology)
 
-
+- Better with Mods (?)
+- Railcraft (?)
 
 
 
 Age of Steel (The start of Industry)
+ 
+-Immersive Engineering
 
 
 
+Modern Age (Use of industrial automation on large scales, intro to electronics, and entry to mass storages)
 
-Modern Age (Use of industrial automation on large scales and entry to mass storages)
-
-
+- IndustrialCraft 
+- SuperCircuitMaker 
 
 
 
 Information Age (Use of futuristic tech)
 
-
+- RFTools & Machines 
+- Modularity 
 
 
 Space Age (Planetary.)
-
-
+ 
+- Planetary
 
 
 
