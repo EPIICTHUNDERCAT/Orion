@@ -36,7 +36,7 @@ Information Age (Use of futuristic tech)
 - RFTools & Machines 
 - Modularity 
 - Applied Energistics 2 (?)
-- ExtraUtils 2 (?)
+- ExtremeReactors (?) 8x-12x less fuel efficient possible requiring of IC2 nuclear scrap
 
 Space Age (Planetary.)
  
