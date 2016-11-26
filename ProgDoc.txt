@@ -1,47 +1,49 @@
 Orion Progression Document  
 Creator: Shadows_of_Fire @ 11/24/2016
 
+Alright.  This will be fully fleshed out eventually, maybe if I get around to it whatever -S
+Treat "//" as things that are NOT final.
 
-Early Age (Pre-Entry to Mechanisms)
-
-- Vanilla 
-- Tinkers' Construct 
-- IronChests
-- Chisel
+Early Age (Pre-Entry to Mechanisms)  (Pre-Iron)
 
 
-Age of Man (Entry-Level technology)
-
-- Storage Drawers
-- Railcraft 
-
+//- Tinkers' Construct 
+//- IronChests
+//- Chisel
 
 
-Age of Steel (The start of Industry)
+Age of Man (Entry-Level technology)  (Iron, Copper, Tin, Bronze, up until Steel)
+
+//- Storage Drawers
+//- Railcraft 
+
+
+
+Age of Steel (The start of Industry)  (Steel, major automation, introduction to Alloying mastery with either Foundry or Modularity)
  
-- Immersive Engineering
-- Embers
+//- Immersive Engineering
+//- Embers
 
 
-Modern Age (Use of industrial automation on large scales, intro to electronics, and entry to mass storages)
+Modern Age (Use of industrial automation on large scales, intro to electronics, and entry to mass storages)  (Extreme automation, major storage cycles, access to ALL metals except those reserved by planetary (if it has such alloys))
 
-- IndustrialCraft 
-- SuperCircuitMaker 
-- Buildcraft (?) 
+//- IndustrialCraft 
+//- SuperCircuitMaker 
+//- Buildcraft
 
 
-Information Age (Use of futuristic tech)
+Information Age (Use of futuristic tech)  (Access to ALL of AE, RFTools Dimensions, Teleportation, Flight)
 
-- RFTools & Machines 
-- Modularity 
-- Applied Energistics 2 (?)
-- ExtremeReactors ( Reactors 8x-12x less fuel efficient possible requiring of IC2 nuclear scrap )
+//- RFTools & Machines 
+//- Modularity 
+//- Applied Energistics 2 (?)
+//- ExtremeReactors ( Reactors 8x-12x less fuel efficient possible requiring of IC2 nuclear scrap )
 
-Space Age (Planetary.)
+Space Age (Planetary)  (Well, yeah, you get the picture)
  
-- Planetary
-- RFTools Dimensions 
-- ExtremeReactors (Turbines untouched)
+//- Planetary
+//- RFTools Dimensions 
+//- ExtremeReactors (Turbines untouched)
 
 
 
