@@ -1,0 +1,3 @@
+// Removing TiC Smeltery casting ability for metal tool parts (note, some casts are crucial and will stay i.e gem, ingot, nugget, pan cast for orbs) replacing the creation of tool parts by smeltery with instead the Immersive Engineering metal press. Leaving the smeltery used solely for making alloys in the game. 
+
+// Possible flint tools as starting tools before vanilla
