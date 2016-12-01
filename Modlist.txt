@@ -1,5 +1,42 @@
-Biomes o plenty 
-Natura 
-Applied Energistics 2 
-Refraction 
-Obsidian Pressure Plates 
+Library Level - API's, Coremods, Libs
+
+Astro Lib
+Chameleon
+Ender Core
+Mantle
+McJty Lib
+MCMultiPart
+MT Lib
+Sonar Core
+Zero Core
+
+
+Util Level - Non-Content Essentials
+Craft Tweaker
+FoamFix
+JEI
+JER
+Mod Tweaker 2
+RTG
+Waila
+
+
+Content Level - Gameplay Additions
+Chisel
+Embers
+EnderIO
+Extreme Reactors
+Flux Networks
+Industrialcraft 2
+Iron Chests
+Modular Forcefield Systems
+Modularity
+Railcraft
+RFTools
+RFTools Control
+RFTools Dimensions
+Storage Drawers
+Super Circuit Maker
+Tinker's Construct
+
+
