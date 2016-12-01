@@ -16,7 +16,7 @@ Player has to accomplish the following goals in order to complete this section:
 -Early Gameplay:  Searching for flint or other rocks on beaches or in rivers. Flint will be needed to allow players to access wood.
 
 Material Progression:
-Flint/Bone -> Wood -> Stone -> End of Era
+Flint -> Bone -> Stone -> End of Era
 
 
 Modlist for Era:
