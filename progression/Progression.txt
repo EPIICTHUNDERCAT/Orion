@@ -4,16 +4,27 @@ Creator: Shadows_of_Fire @ 11/24/2016
 Alright.  This will be fully fleshed out eventually, maybe if I get around to it whatever -S
 Treat "//" as things that are NOT final.
 
-Early Age (Pre-Entry to Mechanisms)  (Pre-Iron)
+Era of Fire - The Stone Age
+
+Player has to accomplish the following goals in order to complete this section:
+-Access to tools capable of mining redstone
+-Access to armor capable of fighting overworld creatures for resources
+-Stable food supply
+-Access to the following resources: Cobblestone, Furnace, Stone, Bronze, Tin, Copper, Coal, Clay, Sugarcane
+-Remove entire vanilla tool array, or basically every tool recipe in the whole game...
+
+Modlist for Era:
+-Survivalist: By nature, this mod will be intrusive into the early game.  I shouldn't need to detail it, this entire mod should live and die in this era.
+-Tinker's Construct: Access to early sections of TiC such as the tables and flint tools where applicable.  Perhaps buff bone tools to encourage early combat.
+-Make changes to bows so that ranged weaponry is not commonplace
+-Restrict the stencil table.  Just about remove the entire thing's recipe, only a few initial stencils should be available to the player.
+-Keep early weaponry to Dungeon Tactics Knives.
 
 
-//- Tinkers' Construct 
-//- IronChests
-//- Chisel
-//- Survivalist
 
 
-Age of Man (Entry-Level technology)  (Iron, Copper, Tin, Bronze, up until Steel)
+
+Era of Iron - The Metal Age
 
 //- Storage Drawers
 //- Railcraft 

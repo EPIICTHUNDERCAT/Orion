@@ -1,7 +1,0 @@
-Early Game Tweaks:
- - Trees become unpunchable, and you must break leaves in order to get a birds nest that, when right clicked in hand, will have the chance of dropping flint shards and sticks. These can then be used craft a crude hatchet.
- - Once you get a crude hatchet, you then can chop down a tree and make a chopping block. This can be used to make planks.
- - All vanilla tool durabilities are set to 0, forcing the player into basic flint tinker tools. These are then used to start gathering resources.
-
-EXTRA MODS USED:
- - Survivalist

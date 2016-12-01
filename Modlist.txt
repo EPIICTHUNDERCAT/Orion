@@ -58,3 +58,4 @@ Reliquary
 Forestry
 Substratum
 Gendustry
+Dungeon Tactics
