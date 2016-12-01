@@ -73,8 +73,7 @@ Modern Age (Use of industrial automation on large scales, intro to electronics, 
 //- IndustrialCraft 
 //- SuperCircuitMaker 
 //- Buildcraft
-//Comment Createb By EmoKiba - Allow Steel to be used to craft a Smeltery to make Gears ( Remove Gear Cast from IE) only allow smeltery gear casting and Make it Require New Alloy Called "Seared Metal" - used to create SearedBricks (1 Ingot)/ Seared Stone Brick (1 Block) 
-
+//Comment Created By EmoKiba - New Alloy Called "titanium Alloy"  = Molten Iron + Molten Lead + Molten Steel" used to Make Gears used to Make Machine Casing used for IC2 Progression
 
 Information Age (Use of futuristic tech)  (Access to ALL of AE, RFTools Dimensions, Teleportation, Flight)
 
