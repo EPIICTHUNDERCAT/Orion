@@ -7,11 +7,17 @@ Treat "//" as things that are NOT final.
 Era of Fire - The Stone Age
 
 Player has to accomplish the following goals in order to complete this section:
--Access to tools capable of mining redstone
+-Access to tools capable of mining tin/coppper
 -Access to armor capable of fighting overworld creatures for resources
 -Stable food supply
--Access to the following resources: Cobblestone, Furnace, Stone, Bronze, Tin, Copper, Coal, Clay, Sugarcane
+-Access to the following resources: Cobblestone, Furnace, Stone, Tin, Copper, Coal, Clay, Sugarcane
+
 -Remove entire vanilla tool array, or basically every tool recipe in the whole game...
+-Early Gameplay:  Searching for flint or other rocks on beaches or in rivers. Flint will be needed to allow players to access wood.
+
+Material Progression:
+Flint/Bone -> Wood -> Stone -> End of Era
+
 
 Modlist for Era:
 -Survivalist: By nature, this mod will be intrusive into the early game.  I shouldn't need to detail it, this entire mod should live and die in this era.
@@ -19,16 +25,41 @@ Modlist for Era:
 -Make changes to bows so that ranged weaponry is not commonplace
 -Restrict the stencil table.  Just about remove the entire thing's recipe, only a few initial stencils should be available to the player.
 -Keep early weaponry to Dungeon Tactics Knives.
+-Storage: Drawers and Chests should be available.
+-Metals: Player should be able to furnace and store tin and copper for later use in the early iron era.
+
+End of Era:
+Complete all outlines goals listed above. Move on to early progression in the Era of Iron
 
 
 
 
+Era of Metallurgy - The Metal Age
 
-Era of Iron - The Metal Age
+Player has to accomplish the following goals in order to complete this section:
+-Access to alloys needed for industrialization
+-Access to at least 150RF/t or equivalent power
+-Access to basic foundry for alloying, melting, and tools.
+-Access to tools that are capable of mining redstone.
+-Access to weaponry and armor that is capable of fighting the denizens of the nether.
 
-//- Storage Drawers
-//- Railcraft 
 
+-Early-Mid Gameplay: Player progresses through the first tier of foundry using normal progression outlined in the Progression Guide.  Foundry is not exactly well wiki-documented so I'll try to keep it up there.
+-Player begins access to some of the earliest generators, more than likely some Railcraft hobbyist's or forestry engines.
+
+Modlist for Era:
+-Foundry: Earliest progression should involve use of a high amount of clay to get access to enough refractory clay for foundry's non-liquid metal machines.
+-Move into early liquid metal casting (Bronze should be needed to make the Melting Crucible (Basic)
+-Player should need most if not all of the Basic foundry things before being able to cast a bronze pickaxe and move into Iron
+-Railcraft: Player should work on Coke Ovens (Also from IE), players should also have access to some form of cart-transport, perhaps a bronze minecart and the wooden rails.
+-Immersive Engineering: Focus on getting creosote from coke
+-Use Bronze to progress to Iron, 
+-Power: Railcraft, IC2, Forestry, should give the player an early start to power. They should probably have access to just a tiny little electric furnace or something at this point.
+-Use iron to do some stuff, maybe embers at this point.  I suppose progress to foundry standard levels.
+
+End of Era:
+Complete all outlined goals.  Player should be able to mine redstone in order to start the next era. 
+Player must have been able to access the nether for the ability to make blast furnaces to use steel, though this next era begins more with the entry into electricity.  Though, that will still probably require steel in large the place of iron, but use copper and gold for wiretypes to create a realistic feel.
 
 
 Age of Steel (The start of Industry)  (Steel, major automation, introduction to Alloying mastery with either Foundry or Modularity)
