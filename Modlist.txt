@@ -1,3 +1,6 @@
+Additions by Release #1
+
+
 Library Level - API's, Coremods, Libs
 
 Astro Lib
@@ -12,6 +15,7 @@ Zero Core
 
 
 Util Level - Non-Content Essentials
+
 Craft Tweaker
 FoamFix
 JEI
@@ -22,6 +26,7 @@ Waila
 
 
 Content Level - Gameplay Additions
+
 Chisel
 Embers
 EnderIO
@@ -40,3 +45,16 @@ Super Circuit Maker
 Tinker's Construct
 
 
+Additions by Release #2 (Speculated) [To be organized later]
+
+Foundry
+Survivalist
+Immersive Engineering
+Blood Magic
+Cyberware
+Deep Resonance
+Applied Energistics 2
+Reliquary
+Forestry
+Substratum
+Gendustry
