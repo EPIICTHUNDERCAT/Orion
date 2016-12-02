@@ -62,31 +62,70 @@ Complete all outlined goals.  Player should be able to mine redstone in order to
 Player must have been able to access the nether for the ability to make blast furnaces to use steel, though this next era begins more with the entry into electricity.  Though, that will still probably require steel in large the place of iron, but use copper and gold for wiretypes to create a realistic feel.
 
 
-Age of Steel (The start of Industry)  (Steel, major automation, introduction to Alloying mastery with either Foundry or Modularity)
+Era of Industry - The Electrical Age
  
-//- Immersive Engineering
-//- Embers
+Player has to accomplish the following goals in order to complete this section:
+-Access to diamond and obsidian, as well as glowstone.
+-Access to all common overworld resources.
+-Has started to progress through all tech branches.
+-Access to weaponry and armor capable of fighting the ender dragon.
+
+-Midgame Gameplay: Player starts up machines, has access to the general basic functions of most tech mods within the pack.  The player also has access to the midgame of magic mods, most of which should have been available to start in the previous age.
+-Player will need a stable power supply for this era in both EU and RF/T/FE (Collectively GE, as I will refer to it)
+
+Modlist for Era:
+-Foundry: Tier 3 foundry alloying so that the player has access be able to melt ALL metals into liquid form.  (MT Guys -- Do not ever set the melting point of foundry liquids to 4000, it cannot hit that high)
+-Modularity: Intro to modularity, most likely access to the general suite of machines, but nothing fancy like plates or machine updgrades
+-Industrialcraft 2: Access to ALL of IC2 pre-advanced machine frame.
+-Immersive Engineering: Access to general IE stuff just none of the larger multiblocks (Arc Furnace, Excavator)
+-Railcraft: ALL of railcraft should be available.
+-Allow some gendustry and all of base forestry
+-RFTools: No access to RFTDims yet, but access to some of the mod such as its storage systems.
+-EnderIO: Pre-Soularium, and Pre-Vibrant.
+
+End of Era:
+Complete all goals. Player should have a stable power supply capable of running a quarry and the materials necessary to create an large-scale IE Multiblock or RFT Builder Quarry by the end of this era, which signals the start of the next.
 
 
-Modern Age (Use of industrial automation on large scales, intro to electronics, and entry to mass storages)  (Extreme automation, major storage cycles, access to ALL metals except those reserved by planetary (if it has such alloys))
+Era of Automation - The Modern Age
 
-//- IndustrialCraft 
-//- SuperCircuitMaker 
-//- Buildcraft
+Player has to  accomplish the following goals:
+-Access to AE2 Presses
+-Access to Cyberware RoboSurgeon
+-Access to Flux Networks
+-Access to some use of Deep Resonance or Extreme Reactors
+
+-Late-Mid Gameplay: Player is now creating large automatic systems to do tasks previously requiring manual labor.  Automation on large scales, through processes such as IE Multiblocks, RFT Autocrafting (No AE2 Autocrafting yet), and resource quarries.
+
+Modlist for Era:
+-Immersive Engineering: ALL components finally available
+-Modularity: Level 1 machine updgrades available, Level 2 by the end of era
+-IC2: Access to Advanced Machine Block and its subsequent pieces, but not every last bit of it. No Quantum or UUM yet.
+-RFTools: Still nothing more than the last era except for access to the builder as a quarry.
+-EnderIO: Post-Soularium, Pre-Vibrant
+
+End of Era:
+Goals. Player should have stable resources enough to be able to create futuristic looking bases and complex and powerful systems using Energistics.
 
 
-Information Age (Use of futuristic tech)  (Access to ALL of AE, RFTools Dimensions, Teleportation, Flight)
+
+Era of Creation - The Information Age
+
+
+
+
+
+Player has to accomplish the following goals
 
 //- RFTools & Machines 
 //- Modularity 
 //- Applied Energistics 2 (?)
 //- ExtremeReactors ( Reactors 8x-12x less fuel efficient possible requiring of IC2 nuclear scrap )
 
-Space Age (Planetary)  (Well, yeah, you get the picture)
+Space Age (Planetary) - I think we need planetary first.
  
 //- Planetary
-//- RFTools Dimensions 
-//- ExtremeReactors (Turbines untouched)
+
 
 
 
